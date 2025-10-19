@@ -38,8 +38,6 @@ It combines elegant UI, responsive design, and search-engine optimization to del
 
 ## 📸 Preview
 
-![SkyNet IT Consulting Preview](https://developerparesh.github.io/skynet-it-consulting)
-
 🔗 **Live Demo:** [https://developerparesh.github.io/skynet-it-consulting/](https://developerparesh.github.io/skynet-it-consulting/)  
 💻 **Repository:** (https://github.com/developerparesh/skynet-it-consulting)
 
